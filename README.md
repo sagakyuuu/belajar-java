@@ -1,13 +1,11 @@
-<p style="text-align: center; font-size: 32px">Belajar Java</p>
+<p style="text-align: center; font-size: 32px">Variable dan Tipe Data</p>
 
-<ul> 
-    <li>
-        <h3>List Pelajaran Dasar</h3>
-        <ol type="1">
-            <li >Hello World</li>
-            <li>Variable & Tipe Data</li>
-            <li>Lingkup Variable</li>
-            <li>Type Casting</li>
-        </ol>
-    </li>
-</ul>
+<p style="font-size: 28px">Variabel</p>
+<p>Variable => bagian dari memori yang dapat berisi nilai data</p>
+
+<p style="font-size: 28px">Tipe Data</p>
+<p>Tipe Data =>  Dibagi menjadi 2 yaitu:</p>
+<ol>
+<li>Data Primitive</li>
+<li>Refrensi Object</li>
+</ol>
